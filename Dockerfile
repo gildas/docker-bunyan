@@ -1,4 +1,4 @@
-FROM node:9-alpine
+FROM node:18-alpine
 LABEL org.opencontainers.image.title="bunyan"
 LABEL org.opencontainers.image.description="Bunyan is a simple and fast JSON logging library for node.js services"
 LABEL org.opencontainers.image.authors="Gildas Cherruel <gildas.cherruel@genesys.com>"
